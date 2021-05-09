@@ -1,4 +1,3 @@
 # NovoSalarioFuncionario
-Faça um aplicativo que receba em uma View o peso de uma pessoa, calcule e mostre em outras Views:
-a) o novo peso, se a pessoa engordar 15% sobre o peso digitado; 
-b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+ Crie uma aplicação Android que permita ao utilizador inserir o salário base de um funcionário, calcule e mostre em um Toast o salário a receber, sabendo-se que o funcionário
+tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
